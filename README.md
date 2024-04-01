@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://imgur.com/VAiDo8I.gif"  />
+  <img height="150" src="https://tenor.com/view/cat-breakdance-gif-26100320 "  />
 </div>
 
 ###
@@ -61,5 +61,15 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/215ggesubyyc5elo2fb4adjmi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=215ggesubyyc5elo2fb4adjmi&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
