@@ -5,17 +5,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@Dafciu_" target="_blank">
+  <a href="https://www.youtube.com/@onestarek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://twitter.com/Dafeq_" target="_blank">
+  <a href="https://twitter.com/onestarek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=dafciu&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://www.instagram.com/dafciu_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/dafciu_" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=onestarek&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.twitch.tv/onestarek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
@@ -30,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Dafciu from Poland<br><br>- 🔭 I’m working as Beginner Discord Bot Developer<br>- 📚 I'm currently learning discord.js, JavaScript, C++<br>- ⚡ In my free time I'm a Video Editor and Photographer</p>
+<p align="left">I'm Kacper from Poland<br><br>- 🔭 I’m a Discord Bot Developer and Website Developer<br>- 📚 I'm currently learning C++, Styling a webpage<br>- ⚡ In my free time I'm a Gamer</p>
 
 ###
 
@@ -56,20 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/215ggesubyyc5elo2fb4adjmi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=215ggesubyyc5elo2fb4adjmi&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
